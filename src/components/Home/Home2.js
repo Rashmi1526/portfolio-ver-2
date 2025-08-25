@@ -18,32 +18,26 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I got into front end development a few years ago because it was a form of programming that let me visualize my progress and results in a quicker and more literal way than other types of programming. While I initially tried it out as a test run to see if I'd be into programming in general I fell in love with the process and I've been doing it ever since. 🤷‍♂️
+            I first got into front-end development a few years ago because it gave me a way to visualize progress and results quickly and literally, which made programming feel exciting and tangible. What started as a trial to see if I’d enjoy coding turned into something I loved, and I’ve kept at it ever since. I’m fluent in classics like C++, JavaScript, and Python, and I enjoy building new web technologies and products. 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript and Python. </b>
-              </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products. </b> 
-              </i>
+              <br />During my internship at Cisco, I developed a strong interest in computer networking, and today I specialize in <i>
+                <b className="purple"> VPNs, DNS, TCP/IP, and SSH </b>
+              </i> . I’m currently preparing for the CCIE certification, further deepening my expertise in network security and infrastructure.
+              
+
               <br />
               <br />
-              Currently I am expanding my horizons and developing Products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like&nbsp;
-              <i>
-                <b className="purple">Next.js</b>
-              </i>
+             
+              In my free time, I am catching up on my <b className="purple">Front-end Skills</b> and exploring
+<i>
+  <b className="purple"> Modern Frameworks</b>
+</i>
+&nbsp; like&nbsp;
+<i>
+  <b className="purple">Next.js</b>
+</i>
+&nbsp; along with <i><b className="purple">Node.js</b></i> to stay connected to the creative side of development.
+              
             </p>
           </Col>
           {/* <Col md={4} className="myAvtar">
